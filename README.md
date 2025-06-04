@@ -17,7 +17,7 @@ pagina web
 </head>
 <body class="container">
 
-  <h4 class="purple-text text-darken-3">Mi Página de Ejemplo</h4>
+  <h4 class="purple-text text-darken-3">Mi Página Web</h4>
   <p>Bienvenido a la interfaz con Material Design.</p>
   
   <a class="waves-effect waves-light btn purple darken-2">Botón Estilo Material</a>
